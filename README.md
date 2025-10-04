@@ -1,2 +1,3 @@
-# A_web_scraping_store_practice_learning_python
-Building a web scraping and price comparison in different stores with an educational and practice approach in Python
+# 🕸️ Web Scraping with Python – Sample Project
+## 📖 What is Web Scraping?
+Web scraping is the process of automatically collecting data from websites. Instead of copying data manually, we use programs to extract the needed information.
